@@ -35,7 +35,7 @@ public class activity3 extends AppCompatActivity {
                 back.putExtra("surname",edit.getText().toString());
                 setResult(RESULT_OK,back);
 
-                 
+
                 }
 
         }
