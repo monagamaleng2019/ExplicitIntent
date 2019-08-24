@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Explicit Intent</string>
+    <string name="btnactivity2">BtnActivity2</string>
+    <string name="btnactivity3">BtnActivity3</string>
+    <string name="name">Name</string>
+    <string name="pls_enter_your_surname">pls enter your surname</string>
+    <string name="submit">submit</string>
+</resources>
